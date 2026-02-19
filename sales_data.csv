@@ -1,0 +1,5 @@
+InvoiceDate,CustomerID,Product,Sales,Region
+2026-01-01,1,Laptop,1200,Dubai
+2026-01-02,2,Mouse,25,Abu Dhabi
+2026-01-03,1,Monitor,300,Dubai
+2026-01-04,4,Keyboard,75,Sharjah
